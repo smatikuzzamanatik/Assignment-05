@@ -6,8 +6,8 @@ A modern, interactive development stack planner and architecture exploration web
 
 ## 🚀 Live Demo & Repository
 
-- **Repository**: [GitHub Repository](https://github.com/)
-- **Live Deployment**: [Live Site](https://devstack-builder.vercel.app/)
+- **Repository**: [GitHub Repository](https://github.com/smatikuzzamanatik/Assignment-05)
+- **Live Deployment**: [Live Site](https://dev-stack-05.vercel.app/)
 
 ---
 
